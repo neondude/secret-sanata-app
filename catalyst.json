@@ -1,0 +1,12 @@
+{
+  "functions": {
+    "targets": [
+      "secret_santa_2_function"
+    ],
+    "ignore": [],
+    "source": "functions"
+  },
+  "client": {
+    "source": "client"
+  }
+}

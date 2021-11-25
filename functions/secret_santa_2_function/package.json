@@ -1,0 +1,11 @@
+{
+	"name": "secret_santa_2_function",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "siddharth.na@zohocorp.com",
+	"dependencies": {
+		"express": "^4.17.1",
+		"unique-names-generator": "^4.6.0",
+		"zcatalyst-sdk-node": "latest"
+	}
+}

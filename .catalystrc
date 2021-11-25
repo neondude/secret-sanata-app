@@ -1,0 +1,29 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "2333000000056002",
+      "name": "secret-santa2",
+      "domain": {
+        "id": "10034071636",
+        "name": "secret-santa2-697183103.development"
+      },
+      "env": [
+        {
+          "idx": 1,
+          "id": "697183103",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
